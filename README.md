@@ -9,10 +9,10 @@ QA Engineer at Merlin AI Software (YC S24), Bengaluru. I test a construction-tec
 - Tracking and triage: JIRA, Linear, DevRev, PostHog
 - AI-assisted engineering: Claude Code for test design, log analysis and small developer-reviewed bug-fix PRs
 
-## Currently building
+Projects
 
-- A public Playwright + pytest demo framework (Page Object Model, fixtures, JSON test data, CI)
-- Python backend and API fundamentals
+* [playwright-pytest-framework](https://github.com/ritik-sketch/playwright-pytest-framework) - Playwright + pytest E2E framework: Page Object Model, fixtures, data-driven tests, network interception, test plan and test cases, GitHub Actions CI
+* [qa-interview-prep](https://github.com/ritik-sketch/qa-interview-prep) - Personal QA/SDET study notes: Python, Playwright, API testing, SQL, CI/CD
 
 ## Links
 
